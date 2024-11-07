@@ -1,4 +1,4 @@
-input_list = ["hello","HELLO","I","AM","AM","sumit","sumit"]
+input_list = ["hello","HELLO","I","AM","AM","sumit","sumit","I","hello"]
 input_set = set(input_list)
 print(input_set)
 result_list = []
